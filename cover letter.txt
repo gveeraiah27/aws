@@ -1,0 +1,14 @@
+I am excited to apply for the DevOps role within your organization. With over 5+ years of experience in DevOps, I have gained extensive knowledge and skills in automation, cloud platforms, and tools such as AWS, Azure, Kubernetes, Docker, Jenkins, and Terraform.
+
+In my current role, I have successfully designed and implemented CI/CD pipelines, automated system operations using Ansible and Chef, monitored environments using tools such as Nagios and Splunk, and ensured quality with SonarQube.
+
+I am passionate about containerization and immutable infrastructure using Docker and Hashicorp Packer, migrating legacy and monolithic systems to the cloud using Terraform and Ansible, and designing and implementing cloud services such as AWS and Azure.
+
+My experience includes scripting with Python, Shell, and Bash, and setting up defect tracking systems such as JIRA. I have expertise in DevOps methodologies, branching and tagging, and version control tools such as SVN and GIT.
+
+I am confident that my skills and experience make me a strong candidate for the DevOps role within your organization. Thank you for considering my application. I look forward to discussing my qualifications further in an interview.
+
+Sincerely,
+
+Veeraiah Babu
+ 
